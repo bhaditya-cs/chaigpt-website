@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chaigpt-website/static/css/main.01b0cbad.css",
-    "main.js": "/chaigpt-website/static/js/main.924a9787.js",
-    "static/js/453.4475f247.chunk.js": "/chaigpt-website/static/js/453.4475f247.chunk.js",
+    "main.js": "/chaigpt-website/static/js/main.1c7978fc.js",
+    "static/js/453.b96badec.chunk.js": "/chaigpt-website/static/js/453.b96badec.chunk.js",
     "static/media/team_picture.webp": "/chaigpt-website/static/media/team_picture.7307e161ab73e9b84604.webp",
     "static/media/team_with_robot.png": "/chaigpt-website/static/media/team_with_robot.926b4f305f1e9ce6aef0.png",
     "static/media/contact-card.webp": "/chaigpt-website/static/media/contact-card.f8708c4ea92244a6fcf9.webp",
@@ -11,11 +11,11 @@
     "static/media/rithvik.webp": "/chaigpt-website/static/media/rithvik.a3ddb3a0b84e909220c9.webp",
     "index.html": "/chaigpt-website/index.html",
     "main.01b0cbad.css.map": "/chaigpt-website/static/css/main.01b0cbad.css.map",
-    "main.924a9787.js.map": "/chaigpt-website/static/js/main.924a9787.js.map",
-    "453.4475f247.chunk.js.map": "/chaigpt-website/static/js/453.4475f247.chunk.js.map"
+    "main.1c7978fc.js.map": "/chaigpt-website/static/js/main.1c7978fc.js.map",
+    "453.b96badec.chunk.js.map": "/chaigpt-website/static/js/453.b96badec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01b0cbad.css",
-    "static/js/main.924a9787.js"
+    "static/js/main.1c7978fc.js"
   ]
 }
